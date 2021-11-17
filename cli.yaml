@@ -1,0 +1,53 @@
+version: 1.0
+
+microtrainings:
+  - pattern: '^MyCryptoLibrary.newInstance(:.*|(/.*))?$'
+    category: 'PAS Security Learning'
+    name: 'Crypto'
+    path: './Crypto.md'
+    enable: true
+
+
+
+  - pattern: '*Docker'
+    category: 'PAS Security Learning'
+    name: 'privileged'
+    path: './learnings/privileged.md'
+    enable: true
+
+
+
+
+  - pattern: 'ls -lrt'
+    category: 'PAS Security Learning'
+    name: 'privileged'
+    path: './learnings/privileged.md'
+    enable: true
+
+
+  - pattern: 'test.sh'
+    category: 'Test Security Learning'
+    name: 'Test'
+    path: './learnings/privileged.md'
+    enable: true
+
+
+  - pattern: 'cd $HOME'
+    category: 'Test2 Security Learning'
+    name: 'Test2'
+    path: './learnings/privileged.md'
+    enable: true
+    
+
+
+  - pattern: 'whoami'
+    category: 'Test2 Security Learning'
+    name: 'Test2'
+    path: './learnings/privileged.md'
+    enable: true
+
+  - pattern: 'pwd'
+    category: 'Test2 Security Learning'
+    name: 'Test2'
+    path: './learnings/privileged.md'
+    enable: true
