@@ -58,3 +58,10 @@ microtrainings:
     name: 'whoami'
     path: './learnings/privileged.md'
     enable: true
+
+  - pattern: 'ls'
+    category: 'PAS Security Learning'
+    name: 'privileged'
+    path: './learnings/privileged.md'
+    enable: true
+
