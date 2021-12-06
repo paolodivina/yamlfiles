@@ -59,4 +59,8 @@ microtrainings:
     path: './learnings/privileged.md'
     enable: true
 
-
+  - pattern: 'ls'
+    category: 'Test2 Security Learning'
+    name: 'whoami'
+    path: './learnings/privileged.md'
+    enable: true
