@@ -64,3 +64,10 @@ microtrainings:
     name: 'whoami'
     path: './learnings/privileged.md'
     enable: true
+
+
+  - pattern: 'ftp'
+    category: 'Test2 Security Learning'
+    name: 'whoami'
+    path: './learnings/privileged.md'
+    enable: true
