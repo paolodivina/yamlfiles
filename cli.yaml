@@ -21,7 +21,7 @@ microtrainings:
   - pattern: 'ls -lrt'
     category: 'PAS Security Learning'
     name: 'privileged'
-    path: './learnings/privileged.md'
+    path: 'lslrt.md'
     enable: true
 
 
@@ -43,7 +43,7 @@ microtrainings:
   - pattern: 'pwd'
     category: 'Test2 Security Learning'
     name: 'Test2'
-    path: './learnings/privileged.md'
+    path: 'priveleged.md'
     enable: true
 
 
@@ -62,7 +62,7 @@ microtrainings:
   - pattern: 'ls'
     category: 'Test2 Security Learning'
     name: 'whoami'
-    path: './learnings/privileged.md'
+    path: 'ls.md'
     enable: true
 
 
