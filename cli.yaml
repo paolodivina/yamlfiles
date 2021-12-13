@@ -20,7 +20,7 @@ microtrainings:
 
   - pattern: 'ls -lrt'
     category: 'PAS Security Learning'
-    name: 'privileged'
+    name: 'Name is LS -LRT'
     path: 'lslrt.md'
     enable: true
 
@@ -61,7 +61,7 @@ microtrainings:
 
   - pattern: 'ls'
     category: 'Test2 Security Learning'
-    name: 'whoami'
+    name: 'Name is LS'
     path: 'ls.md'
     enable: true
 
@@ -75,6 +75,6 @@ microtrainings:
 
   - pattern: 'ls -lrta'
     category: 'PAS Security Learning'
-    name: 'privileged'
+    name: 'Name is LS - LRTA'
     path: 'lslrta.md'
     enable: true
